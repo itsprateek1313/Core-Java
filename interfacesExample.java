@@ -3,6 +3,7 @@
 // It defines a set of methods (and sometimes constants) that a class promises to provide.
 // Interfaces help enforce a structure or behavior that classes can adhere to.
 // They enable multiple classes to share a common set of methods without requiring them to inherit from a common superclass.
+//Interfaces cannot be instantiated but used by classes
 
 // They contain method signatures (declaration without implementation) and constants (variables that are implicitly static and final)
 // Classes that implement an interface must provide concrete implementations (code) for all the methods declared in the interface
